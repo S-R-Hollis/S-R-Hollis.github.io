@@ -6,7 +6,6 @@
 
 <body>
 	<header>
-		<h1>Share Your Travels </h1>
+		<h1>*My First Live Webpage* </h1>
 		
-			Let us know where you've been
-		<nav>
+		
