@@ -1,0 +1,89 @@
+<!DOCTYPE html> 
+<html lang="en">
+	<head>
+		<title>
+			My Simple Art Store
+		</title>
+	</head>
+	
+	<body>
+		<div style=" background:  #FF5733; ">
+		<center>
+		<h1>MY Simple Art Store</h1>
+		
+		<nav>
+			<p>
+				<b> <a href="artstoreproject3.html">Home</a> </b>|
+				<b> <a href="artist.html">Artist</a> </b>|
+				<b> <a href="artworks.html">Artworks</a> </b>|
+				<b> <a href="chapter05-project02.html">Search</a> </b>|
+				<b> About Us </b>				
+		</nav>
+		
+		<h2>
+		Maemoiselle Caroline Rivi&#232;re
+		</h2>
+		
+		<p>
+			by:<br> Jean-August-Dominique Jones
+		</p>
+		
+		<figure>		
+			<img src="imgages/06010-large.jpg">
+			<img src="imgages/06010-medium.jpg"
+			title="Maemoiselle Caroline Rivi&#232;re">
+			</a>
+			<figcaption>
+				This portrait of Maemoiselle Caroline Rivi&#232;re <br>
+				was painted in 1806 by French Neo-classical Artist <br>
+				Jean-August-Dominique Jones
+			</figcaption>
+		</figure>
+			
+		<p>
+			Date: <em>1806</em> <br>
+			Medium: <em>oil on canvas</em> <br>
+			Demensions:<em>100 x 70cm</em> <br>
+			Home:<em>Mus&#232;um de Louvre, Paris</em> <br>
+		</p>
+		
+		<p>
+			<img src="images/cart.png"> Add to Cart |
+			<img src="imgages/favorites.png"> Add to Favorites 
+		</p>
+		
+		<h3> Related Paintings </h3>
+		
+		<img src="images/05030.jpg">
+		<img src="images/06060.jpg">
+		<img src="images/07020.jpg">
+		<img src="images/13030.jpg">
+			
+		<h3>Reviews</h3>
+		<p>
+			<q>Love this painting!!</q> <br>
+			<em>-John Smith</em><br>
+			<img src="images/star-orange.png">
+			<img src="images/star-white.png">
+			<img src="images/star-orange.png">
+			<img src="images/star-white.png">
+			<img src="images/star-orange.png">
+		</p>
+				
+		
+		<footer>
+			<p>
+			<em>
+			Copyright &copy; 202 IST 226 Chapter 3 Project 3
+			</em>
+			</p>
+		</footer>
+		
+		</center>
+	</body>
+	
+	<footer>
+	
+	</footer>
+	
+</html>
